@@ -1,6 +1,6 @@
 package br.com.rbp.teste_viasoft.controllers;
 
-import br.com.rbp.teste_viasoft.models.EmailDTO;
+import br.com.rbp.teste_viasoft.dtos.EmailDTO;
 import br.com.rbp.teste_viasoft.services.EmailService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

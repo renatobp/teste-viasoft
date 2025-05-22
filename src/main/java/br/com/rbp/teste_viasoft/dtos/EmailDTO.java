@@ -1,4 +1,4 @@
-package br.com.rbp.teste_viasoft.models;
+package br.com.rbp.teste_viasoft.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

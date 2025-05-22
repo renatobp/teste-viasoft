@@ -3,7 +3,7 @@ package br.com.rbp.teste_viasoft.services;
 import br.com.rbp.teste_viasoft.dtos.EmailAwsDTO;
 import br.com.rbp.teste_viasoft.dtos.EmailOciDTO;
 import br.com.rbp.teste_viasoft.handlers.EmailDTOValidator;
-import br.com.rbp.teste_viasoft.models.EmailDTO;
+import br.com.rbp.teste_viasoft.dtos.EmailDTO;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;

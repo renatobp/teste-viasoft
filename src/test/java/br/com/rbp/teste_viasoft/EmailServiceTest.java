@@ -3,7 +3,7 @@ package br.com.rbp.teste_viasoft;
 import br.com.rbp.teste_viasoft.dtos.EmailAwsDTO;
 import br.com.rbp.teste_viasoft.dtos.EmailOciDTO;
 import br.com.rbp.teste_viasoft.handlers.EmailDTOValidator;
-import br.com.rbp.teste_viasoft.models.EmailDTO;
+import br.com.rbp.teste_viasoft.dtos.EmailDTO;
 import br.com.rbp.teste_viasoft.services.EmailService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
